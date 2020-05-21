@@ -1804,3 +1804,10 @@ footer {
         color: #4caf50; }
 
 /*# sourceMappingURL=style.css.map */
+
+/* Custom DG */
+@media(min-width: 768px){
+  .skill-c .skill-wrapper{
+    height: 565px;
+  }
+}
